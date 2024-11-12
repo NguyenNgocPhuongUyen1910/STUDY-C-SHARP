@@ -6,6 +6,7 @@
     <RootNamespace>HỌC_C_SHARP</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>HỌC_C_SHARP.BÀI_15_BT</StartupObject>
   </PropertyGroup>
 
 </Project>
